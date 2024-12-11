@@ -1,10 +1,10 @@
 # **Bulk File Handling, Conversion, and SQL Querying on Credit Card Fraud Detection Data**
 
 ## **Objective**  
-The goal of this task is to perform bulk file handling, file conversion, and SQL querying on the Credit Card Fraud Detection dataset from Kaggle using Apache Spark with Python (PySpark). The task also includes creating a new column based on a mathematical formula to test logical skills.
+The goal of this Project is to perform bulk file handling, file conversion, and SQL querying on the Credit Card Fraud Detection dataset from Kaggle using Apache Spark with Python (PySpark). The task also includes creating a new column based on a mathematical formula to test logical skills.
 
 ---
-## **Task Description**
+## **Tasks Done **
 
 ### **1. Data Acquisition**  
 - Downloaded the Credit Card Fraud Detection dataset from Kaggle.  
